@@ -59,6 +59,7 @@ I am a dedicated and self-taught software developer with a strong passion for cr
 
 2. **Fine Tuning of Stable Diffusion Model with Custom Dataset**  
    Developed a custom dataset to fine-tune the Stable Diffusion image generation model, enhancing its performance and adaptability.
+   [View Presentation](https://www.canva.com/design/DAFTMfU1h64/lsz3cp48acsOA0-ZfHQXCA/view)
 
 ---
 
