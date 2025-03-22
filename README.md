@@ -1,20 +1,67 @@
-<h1 align="center">Hi 👋, I'm José Carlos Chaparro</h1>
-<h3 align="center">A passionate developer from Mexico</h3>
+<h1 align="center">👋 Hi! I'm José Carlos Chaparro</h1>
+<h3 align="center">🚀 Full Stack Developer passionate about building innovative solutions</h3>
 
-- 📫 How to reach me **jc_chaparro@hotmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/josé-chaparro-56a3211b9" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jc_chaparro@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
+### 🔥 About Me
+- 💻 Developer with experience in multiple technologies
+- 🎓 Self-taught by passion
+- 🌱 Currently learning: **DevOps & Cloud Computing**
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+---
 
+### 🛠️ Tech Stack
+**Languages**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+
+**Backend**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+
+**Databases**  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+**DevOps** (Currently learning)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+### ⚡ Some Projects
+1. [*Galaga For Everyone*](https://github.com/JoseCarlosChaparro/GalagaForEveryone) - A project in which a Processing based program was created to control a Galaga-style game developed in Unreal Engine. 
+2. **Fine Tunning of Stable Difussion Model with Custom Dataset** - A project in which a custom dataset was created and used to fine-tune the Stable Diffusion image generation model.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlosChaparro&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosChaparro&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **jc_chaparro@hotmail.com**
+- 💼 LinkedIn: [José Chaparro](https://www.linkedin.com/in/josé-chaparro-56a3211b9)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoseCarlosChaparro&color=blueviolet" alt="Profile views"/>
 </p>
