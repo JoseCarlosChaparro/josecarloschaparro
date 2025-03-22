@@ -63,15 +63,6 @@ I am a dedicated and self-taught software developer with a strong passion for cr
 
 ---
 
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlosChaparro&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosChaparro&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Contact Me
 
 I'm always open to discussing new projects or opportunities. Feel free to reach out!
