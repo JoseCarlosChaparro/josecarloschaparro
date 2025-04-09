@@ -39,6 +39,7 @@ I am a dedicated and self-taught software developer with a strong passion for cr
 #### Backend
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 
 #### Databases
 - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
