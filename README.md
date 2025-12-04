@@ -41,14 +41,14 @@ I am a dedicated and self-taught software developer with a strong passion for cr
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### .NET Ecosystem
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![DevExpress](https://img.shields.io/badge/-DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
-
 #### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+#### .NET Ecosystem
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![DevExpress](https://img.shields.io/badge/-DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
 
 #### AI & Computer Vision
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
